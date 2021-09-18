@@ -21,3 +21,4 @@ The important reference files in this project are :
 1. *DFS_Analysis.ipynb* : Single python notebook to show the steps taken to train the models. Grid search for hyper parameter tuning
 was also performed to improve the performance of the models.
 2. *datasets folder* : Contains the csv files of the five genetic datasets for resuability
+3. *Final_Report.pdf* : The report which details all the steps and analysis conducted for this project.
